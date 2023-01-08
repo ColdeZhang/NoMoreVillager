@@ -1,0 +1,9 @@
+name: NoMoreVillager
+version: '${project.version}'
+main: site.deercloud.nomorevillager.NoMoreVillager
+api-version: 1.13
+prefix: NMV
+load: STARTUP
+authors: [ Luming ]
+description: 限制村民行为，防止卡服。
+website: https://blog.deercloud.site
