@@ -7,3 +7,9 @@ load: STARTUP
 authors: [ Luming ]
 description: 限制村民行为，防止卡服。
 website: https://blog.deercloud.site
+commands:
+  nomorevillager:
+    description: NoMoreVillager
+    usage: /nmv
+    aliases: [ nmv ]
+    default: true
